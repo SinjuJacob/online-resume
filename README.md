@@ -1,0 +1,1 @@
+A simple online resume website built using HTML and CSS as part of Capstone Project 1. This project showcases my profile, education, skills, projects, and contact information while practising the fundamentals of web development.
