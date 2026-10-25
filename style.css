@@ -1,0 +1,54 @@
+
+/* Basic page styling */
+body{
+    font-family:Arial,sans-serif;
+    background-color:# #0000FF;
+    color:#333333;
+    margin:0;
+    padding:20px;
+}
+
+/* Main resume container */
+.container{
+    max-width:800px;
+    margin:0 auto;
+    background-color:white;
+    padding:25px;
+    boarder radius:10px:
+}
+
+/* Header */
+header{
+    background-color:#1769aa;
+    color:white;
+    text-align:center;
+    padding:25px;
+    boarder-radius:8px;
+}
+
+/* Section headings */
+h2 {
+    color: #1769aa;
+    border-bottom: 2px solid #1769aa;
+    padding-bottom: 5px;
+}
+
+/* Resume sections */
+section {
+    margin-top: 25px;
+    padding: 10px;
+}
+
+/* Skills list */
+li {
+    margin-bottom: 8px;
+}
+
+/* Footer */
+footer {
+    background-color: #e6f2ff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
